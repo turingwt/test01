@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c83f8a5-eb35-4efc-9b29-aafd4488bafd" name="Default Changelist" comment="" />
+    <list default="true" id="9c83f8a5-eb35-4efc-9b29-aafd4488bafd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/date.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/datetime.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/ragged.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/test.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/testall.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/testnoformatting.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/月度-5月-公交车-统计结果.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/月度-5月-公交车.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/月度-5月-物流车-统计结果.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/月度-5月-物流车.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/物流车 - 副本.xlsx" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,29 +30,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mouth_Analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+            <state relative-caret-position="375">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/xlsxwriter/worksheet.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26725">
-              <caret line="1103" column="46" selection-start-line="1103" selection-start-column="46" selection-end-line="1103" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/xlsxwriter/workbook.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -89,6 +85,9 @@
       <replace>_data</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -100,12 +99,13 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="24" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -289,16 +289,18 @@
       <workItem from="1560298894279" duration="15699000" />
       <workItem from="1560323327104" duration="105000" />
       <workItem from="1560323464793" duration="831000" />
+      <workItem from="1560326457102" duration="532000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="89633000" />
+    <option name="totallyTimeSpent" value="90165000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1065" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1065" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976" visible="true" weight="0.19722815" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976" visible="true" weight="0.19936034" />
       <window_info id="Structure" order="1" sideWeight="0.5024" side_tool="true" weight="0.17910448" />
       <window_info id="Favorites" order="2" sideWeight="0.5024" side_tool="true" weight="0.17910448" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -313,7 +315,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32939914" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32975295" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -492,8 +494,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Mouth_Analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        <state relative-caret-position="375">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
