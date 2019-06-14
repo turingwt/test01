@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9c83f8a5-eb35-4efc-9b29-aafd4488bafd" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mileage_Analysis/.idea/Mileage_Analysis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mileage_Analysis/.idea/dictionaries/jason.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mileage_Analysis/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mileage_Analysis/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mileage_Analysis/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mileage_Analysis/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mileage_Analysis/Mileage.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/date.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/datetime.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/ragged.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/test.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/testall.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/Lib/site-packages/xlutils/tests/testnoformatting.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/月度-5月-公交车-统计结果.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/月度-5月-公交车.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/月度-5月-物流车-统计结果.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/月度-5月-物流车.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/物流车 - 副本.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mileage_Analysis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mouth_Analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/Mouth_Analysis.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temporary.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,34 +28,18 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Mouth_Analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="205">
+              <caret line="309" column="96" selection-start-line="309" selection-start-column="96" selection-end-line="309" selection-end-column="96" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Mileage_Analysis.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/temporary.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1450">
-              <caret line="61" selection-start-line="61" selection-end-line="61" />
-              <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#115#234#0" />
+                <element signature="e#1230#3586#0" />
+                <element signature="e#3667#4450#0" />
+                <element signature="e#4500#5202#0" />
+                <element signature="e#5281#5746#0" />
+                <element signature="e#5833#7156#0" />
+                <element signature="e#7442#9454#0" />
+                <element signature="e#11918#12776#0" />
               </folding>
             </state>
           </provider>
@@ -99,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="24" />
     <option name="width" value="1400" />
@@ -136,7 +118,15 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="test" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="test" />
+      </console-settings>
+    </option>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -199,6 +189,9 @@
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -289,18 +282,21 @@
       <workItem from="1560298894279" duration="15699000" />
       <workItem from="1560323327104" duration="105000" />
       <workItem from="1560323464793" duration="831000" />
-      <workItem from="1560326457102" duration="532000" />
+      <workItem from="1560326457102" duration="4914000" />
+      <workItem from="1560385973700" duration="1256000" />
+      <workItem from="1560393181395" duration="8000" />
+      <workItem from="1560475422226" duration="1049000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90165000" />
+    <option name="totallyTimeSpent" value="96860000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1065" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1065" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976" visible="true" weight="0.19936034" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4976" visible="true" weight="0.20575693" />
       <window_info id="Structure" order="1" sideWeight="0.5024" side_tool="true" weight="0.17910448" />
       <window_info id="Favorites" order="2" sideWeight="0.5024" side_tool="true" weight="0.17910448" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -315,7 +311,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32939914" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.32975295" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3265306" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -326,32 +322,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mileage_Analysis.py</url>
-          <line>16</line>
-          <option name="timeStamp" value="6" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mileage_Analysis.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mileage_Analysis.py</url>
-          <line>7</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Mileage_Analysis.py</url>
-          <line>6</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/test$Mileage_Analysis.coverage" NAME="Mileage_Analysis Coverage Results" MODIFIED="1560060861159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -492,16 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Mouth_Analysis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/xlsxwriter/worksheet.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="26725">
@@ -513,6 +473,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="650">
           <caret line="57" column="39" selection-start-line="57" selection-start-column="39" selection-end-line="57" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Program Files/python37/Lib/site-packages/xlrd/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2875">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Mouth_Analysis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="309" column="96" selection-start-line="309" selection-start-column="96" selection-end-line="309" selection-end-column="96" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#115#234#0" />
+            <element signature="e#1230#3586#0" />
+            <element signature="e#3667#4450#0" />
+            <element signature="e#4500#5202#0" />
+            <element signature="e#5281#5746#0" />
+            <element signature="e#5833#7156#0" />
+            <element signature="e#7442#9454#0" />
+            <element signature="e#11918#12776#0" />
+          </folding>
         </state>
       </provider>
     </entry>

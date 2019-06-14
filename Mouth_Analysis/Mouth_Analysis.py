@@ -220,7 +220,7 @@ def mileage_(_data: list, vin_dedupliction: list):
     return mil
 
 
-# 信息写入表格及表格另存
+# 信息写入表格及表格另存(只适用.xls格式，不适用.xlsx格式，本程序不再使用该函数)
 def write_result(_filename: str,
                  _province_result: dict, _day_result: dict,
                  _dedupliction: list, _type_cars_count: dict,
@@ -265,7 +265,7 @@ def write_result(_filename: str,
     wbook.save(saveas_name)  # 处理完的表格另存
 
 
-# 信息写入表格及表格另存
+# 信息写入表格及表格另存（.xlsx格式）
 def write_result_xlsx(_filename: str, _data: list,
                       _province_result: dict, _day_result: dict,
                       _dedupliction: list, _type_cars_count: dict,
